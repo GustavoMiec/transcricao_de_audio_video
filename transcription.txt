@@ -1,0 +1,1 @@
+Olá me chamo Gustavo Costa tenho 21 anos sou programador atualmente estou estudando inteligência artificial para desenvolvedores este código vai mostrar como converte um vídeo em áudio e um áudio texto fazendo a transcrição do mesmo
